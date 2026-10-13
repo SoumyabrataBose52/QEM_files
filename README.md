@@ -1,6 +1,6 @@
 ## Environment Setup
 
-This project uses Python 3.11 and Qiskit for quantum computing experiments.
+This project uses Python 3.11 and Qiskit.
 
 ### Prerequisites
 
